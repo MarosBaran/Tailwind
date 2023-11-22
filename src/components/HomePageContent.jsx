@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import githubLogo from "../assets/github-mark-white.png";
-import linkedinLogo from "../assets/linkedinLogo.png";
+import linkedinLogo from "../assets/linkedInLogo.png";
 
 function HomePageContent({ title, children }) {
   return (
